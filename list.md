@@ -13,3 +13,4 @@
 - Chess
 - Ludo
 - UNO
+- Cards
