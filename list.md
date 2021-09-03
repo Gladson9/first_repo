@@ -9,3 +9,7 @@
 - Football
 - Cricket
 
+## Indoor Games
+- Chess
+- Ludo
+- UNO
