@@ -10,3 +10,8 @@
 - Cricket
 - Baseball
 
+## Indoor Games
+- Chess
+- Ludo
+- UNO
+- Cards
